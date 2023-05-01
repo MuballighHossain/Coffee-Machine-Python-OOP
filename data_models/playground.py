@@ -1,3 +1,4 @@
-from data_models.Pokemon import Pokemon
+from data_models.AquaPokemon import AquaPokemon
 
-squirtle = Pokemon('squirtle', '002', 10, 50, 10, 20, [('tackle', 5)])
+squirtle = AquaPokemon('squirtle', '002', 10, 50, 10, 20, [('tackle', 5)])
+
